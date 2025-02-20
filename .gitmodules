@@ -1,3 +1,6 @@
 [submodule "web-portfolio/themes/blowfish"]
 	path = web-portfolio/themes/blowfish
 	url = https://github.com/jamanuriyeva/blowfish.git
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/jamanuriyeva/blowfish.git
